@@ -1,5 +1,17 @@
 ## ALX BACKEND - Storage
 
+This repository contains programs written for the ALX BACKEND - STORAGE programming
+track at ALX School. In these projects, which began occurring in the last three months
+year one curriculum, I learned MySQL and NoSQL and also caching using respective Databases ie SQL,MongoDB and Redis.
+Simultaneously, I continued to reinforce and expand my skills in Python and SQL.
+The specific list of projects contained as follows:
+
+* [0x00-MySQL_Advanced](./0x00-MySQL_Advanced)
+* [0x01-NoSQL](./0x01-NoSQL)
+* [0x02-redis_basic](./0x02-redis_basic)
+
+
+
 ## Author : Festus Maithya:
 
 * **Festus Maithya** [festusmaithyakcau](https://github.com/festusmaithyakcau)
